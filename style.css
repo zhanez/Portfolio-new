@@ -56,10 +56,6 @@ nav a{
     width: 200px;
 }
 
-#projectone{
-    
-}
-
 /* BIG PICTURE */
 /* .imgback{
     height: 400px;
@@ -83,8 +79,13 @@ nav a{
 /* END CAPTION ON BIG PIC */
 
 .content{
-    text-align: inherit;
-    margin-left: 60px;
+    /* text-align: inherit; */
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+a{
+    margin-left: 40px;
 }
 
 /* ABOUT ME, WORK, CONTACT ME COLUMN */
